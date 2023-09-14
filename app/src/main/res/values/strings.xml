@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RickEtMorty</string>
+    <string name="app_title">Rick et Morty</string>
+    <string name="character_status">Status: %1$s</string>
+    <string name="character_gender">Gender: %1$s</string>
+    <string name="character_origin">Origin: %1$s</string>
+    <string name="character_current_location">Current location: %1$s</string>
+    <string name="character_image_description">A picture of %1$s</string>
+    <string name="gender_species">%1$s, %2$s</string>
+    <string name="character_count">Character count: %1$s</string>
+    <string name="fetch_more">Fetch more</string>
+    <string name="species">Species: %1$s</string>
+</resources>
